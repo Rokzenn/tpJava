@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c97b0a-960a-4dcd-be85-0334c0ba5afe" name="Changes" comment="commit modif">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jeuDes/De.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jeuDes/De.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jeuDes/Partie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jeuDes/Partie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jeuDes/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jeuDes/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/calte/Desktop",
     "node.js.detected.package.eslint": "true",
@@ -48,20 +53,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Run">
-    <configuration name="De" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jeuDes.De" />
-      <module name="tpJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jeuDes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jeuDes.Main" />
       <module name="tpJava" />
@@ -75,8 +67,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jeuDes.Run" />
+    <configuration name="jeuDes.De" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jeuDes.De" />
+      <module name="tpJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jeuDes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jeuDes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jeuDes.Main" />
       <module name="tpJava" />
       <extension name="coverage">
         <pattern>
@@ -90,9 +95,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run" />
-        <item itemvalue="Application.De" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.jeuDes.De" />
+        <item itemvalue="Application.jeuDes.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657525605641</updated>
-      <workItem from="1657525607424" duration="20054000" />
+      <workItem from="1657525607424" duration="20943000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1657526114103</created>
@@ -134,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657547087344</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit modif">
+      <created>1657547135599</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657547135599</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

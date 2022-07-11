@@ -1,10 +1,10 @@
 package jeuDes;
 
-public class Run {
+public class Main {
     public static void main(String[] args) {
 
 //  création de la partie
-        Partie partie = new Partie(4, 5);
+        Partie partie = new Partie(2, 5);
 
 //  init les joueurs + nombre et noms
         partie.initialiser();
