@@ -16,10 +16,9 @@ public class Gobelet{
      * init valeur gobelet à 0
      */
     public Gobelet(int nb_des){
-
         this.valeurGobelet = 0;
-        this.des = new De[nb_des];
 
+        this.des = new De[nb_des];
         for (int i = 0; i < nb_des; i++){
            this.des[i] = new De();
         }

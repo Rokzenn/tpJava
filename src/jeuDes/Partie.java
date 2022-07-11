@@ -16,8 +16,8 @@ public class Partie{
     /**
      * constructeur
      * init gobelet
-     * @params nombre de tours à jouer
-     * @params nombre de dès à utiliser
+     * nombre de tours à jouer
+     * nombre de dès à utiliser
      */
         public Partie(int nb_tours, int nb_des){
             this.nb_tours = nb_tours;
