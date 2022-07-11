@@ -67,22 +67,24 @@ public class Partie{
     /**
      * méthodes
      * lancement partie
-     * les joueurs jouent chacun leur tour jusqu'à la fin des nombre de tour définies
+     * les joueurs jouent chacun leur tour jusqu'à la fin des nombres de tours définies
      * affiche le gagnant
-     * affiche numero de tour et score
      */
         public void lancer(){
-
             int i = 1;
+
             while(i <= this.nb_tours){
+
                 System.out.println("Tour : " + i);
+
                 for (Joueur joueur : this.joueurs) {
                     System.out.println("Joueur : " + joueur.get_nom() );
                     joueur.jouer(this.gobelet);
-                    System.out.println("Score : " + joueur.get_score());
+                    System.out.println("Score : " + joueur.get_score() );
                 }
                 i++;
             }
-        afficher_gagnant();
+
+            afficher_gagnant();
         }
 }
