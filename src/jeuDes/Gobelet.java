@@ -7,8 +7,8 @@ public class Gobelet{
      * valeur du gobelet
      * tableau de dé
      */
-    private int valeurGobelet;
     private De des[];
+    private int valeurGobelet;
 
     /**
      * Constructeur

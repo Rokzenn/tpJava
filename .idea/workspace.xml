@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jeuDes/Gobelet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jeuDes/Gobelet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jeuDes/Partie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jeuDes/Partie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jeuDes/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jeuDes/Run.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657525605641</updated>
-      <workItem from="1657525607424" duration="19742000" />
+      <workItem from="1657525607424" duration="20020000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1657526114103</created>
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657546112998</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit modif">
+      <created>1657546815007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657546815007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

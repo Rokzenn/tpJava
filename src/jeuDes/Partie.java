@@ -8,8 +8,9 @@ public class Partie{
      * Attributs
      * tableau de joueurs + nombre de tour + gobelet
      */
-        private Joueur joueurs[];
+
         private int nb_tours;
+        private Joueur joueurs[];
         private Gobelet gobelet;
 
 
